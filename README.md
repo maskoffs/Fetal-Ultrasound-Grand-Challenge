@@ -4,4 +4,4 @@ We provide fully supervised UNet training code in the “baseline” folder, but
 
 An example of the uploaded code is provided in the “submit” folder. model.py file name cannot be changed and load and predict methods of the model class need to be defined in it, participants should pay attention to the input and output requirements while designing. We do not recommend the use of third-party libraries.
 
-！[](https://github.com/maskoffs/Fetal-Ultrasound-Grand-Challenge/blob/main/1.png?raw=true)
+![result](https://github.com/maskoffs/Fetal-Ultrasound-Grand-Challenge/blob/main/1.png?raw=true)
